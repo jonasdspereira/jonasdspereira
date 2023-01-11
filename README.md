@@ -3,9 +3,19 @@ Estudante de Dev Web, formado em Redes de Computadores e futuro especialista em 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonasdspereira/)
 
+### 📈 Stats 
+<div>
+<a href="https://github.com/jonasdspereira/github-stats">
+  <img height="180em" align="center" src="https://github-stats-jonasdspereira.vercel.app/api?username=jonasdspereira&show_icons=true&theme=react" />
+</a>
+<a href="https://github.com/jonasdspereira/github-stats">
+  <img height="180em" align="center" src="https://github-stats-jonasdspereira.vercel.app/api/top-langs/?username=jonasdspereira&layout=compact&theme=react" />
+</a>
+</div>
+
 <br/>
 
-### Tecnologias que utilizo
+### 💻 Tecnologias que utilizo 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
