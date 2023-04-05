@@ -1,7 +1,5 @@
 ### Olá! Sou o Jonas 🤙🏻
-Estudante de Dev Web, formado em Redes de Computadores e futuro especialista em Banco de dados.
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonasdspereira/)
+Estudante de Dev Web, graduado em Redes de Computadores e futuro pós-graduado em Banco de dados.
 
 ### 📈 Stats 
 <div>
