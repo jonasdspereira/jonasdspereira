@@ -1,5 +1,5 @@
 ### Olá! Sou o Jonas 🤙🏻
-Estudante de Dev Web, graduado em Redes de Computadores e futuro pós-graduado em Banco de dados.
+Estudante de Dev Web, graduado em Redes de Computadores e pós-graduando em Banco de dados.
 
 ### 📈 Stats 
 <div>
