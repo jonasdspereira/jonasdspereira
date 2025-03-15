@@ -2,7 +2,7 @@
 Analista de dados e estudante de Ciências de Dados.
 
 <br/>
-<a target="_blank" href="https://www.linkedin.com/in/jnsprr/">
+<a href="https://www.linkedin.com/in/jnsprr/" target="_blank">
   <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
