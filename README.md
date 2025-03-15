@@ -1,5 +1,5 @@
 ### Olá! Sou o Jonas 🤙🏻
-Analista de dados e estudante de Ciências da Computação.
+Analista de dados e estudante de Ciências de Dados.
 
 <br/>
 
