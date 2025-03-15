@@ -1,16 +1,6 @@
 ### Olá! Sou o Jonas 🤙🏻
 Analista de dados e estudante de Ciências da Computação.
 
-### 📈 Stats 
-<div>
-<a href="https://github.com/jonasdspereira/github-stats">
-  <img height="180em" align="center" src="https://github-stats-jonasdspereira.vercel.app/api?username=jonasdspereira&show_icons=true&theme=react" />
-</a>
-<a href="https://github.com/jonasdspereira/github-stats">
-  <img height="180em" align="center" src="https://github-stats-jonasdspereira.vercel.app/api/top-langs/?username=jonasdspereira&layout=compact&theme=react" />
-</a>
-</div>
-
 <br/>
 
 ### 💻 Tecnologias que utilizo 
