@@ -1,5 +1,5 @@
 ### Olá! Sou o Jonas 🤙🏻
-Analista de dados e estudante de Ciências de Dados.
+Analista de dados e um eterno aprendiz.
 
 <br/>
 <a href="https://www.linkedin.com/in/jnsprr/" target="_blank">
